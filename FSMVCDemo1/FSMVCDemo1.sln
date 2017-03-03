@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSMVCDemo1Web", "FSMVCDemo1\FSMVCDemo1Web\FSMVCDemo1Web.csproj", "{A18BF772-401E-4E3F-9534-6472EB66DDB7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSMVCDemo1WebApp", "FSMVCDemo1\FSMVCDemo1WebApp\FSMVCDemo1WebApp.fsproj", "{A126575F-C66E-42BF-A70F-655D4C3F0069}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SpeakersFS", "SpeakersFS\SpeakersFS.fsproj", "{8C51B12A-C018-46E6-AE51-C87A22571DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18BF772-401E-4E3F-9534-6472EB66DDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18BF772-401E-4E3F-9534-6472EB66DDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18BF772-401E-4E3F-9534-6472EB66DDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18BF772-401E-4E3F-9534-6472EB66DDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A126575F-C66E-42BF-A70F-655D4C3F0069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A126575F-C66E-42BF-A70F-655D4C3F0069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A126575F-C66E-42BF-A70F-655D4C3F0069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A126575F-C66E-42BF-A70F-655D4C3F0069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C51B12A-C018-46E6-AE51-C87A22571DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C51B12A-C018-46E6-AE51-C87A22571DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C51B12A-C018-46E6-AE51-C87A22571DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C51B12A-C018-46E6-AE51-C87A22571DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
