@@ -21,6 +21,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Precomputation", "Precomput
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Recursion", "Recursion\Recursion.fsproj", "{EEA0B4C5-3AA8-4038-B160-72E0CF4D8032}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tuples", "Tuples\Tuples.fsproj", "{BFD00BEC-44E7-429F-B6BA-0DCBDCA035AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{EEA0B4C5-3AA8-4038-B160-72E0CF4D8032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEA0B4C5-3AA8-4038-B160-72E0CF4D8032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEA0B4C5-3AA8-4038-B160-72E0CF4D8032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD00BEC-44E7-429F-B6BA-0DCBDCA035AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD00BEC-44E7-429F-B6BA-0DCBDCA035AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD00BEC-44E7-429F-B6BA-0DCBDCA035AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD00BEC-44E7-429F-B6BA-0DCBDCA035AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
