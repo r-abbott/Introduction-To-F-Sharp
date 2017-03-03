@@ -23,6 +23,10 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Recursion", "Recursion\Recu
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tuples", "Tuples\Tuples.fsproj", "{BFD00BEC-44E7-429F-B6BA-0DCBDCA035AD}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Options", "Options\Options.fsproj", "{46331FC2-8024-4E3C-9D07-9974EFF9CDE0}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lists", "Lists\Lists.fsproj", "{11FEA5EB-5FBF-423E-B7CA-D6FCDFE47D97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{BFD00BEC-44E7-429F-B6BA-0DCBDCA035AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFD00BEC-44E7-429F-B6BA-0DCBDCA035AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFD00BEC-44E7-429F-B6BA-0DCBDCA035AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46331FC2-8024-4E3C-9D07-9974EFF9CDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46331FC2-8024-4E3C-9D07-9974EFF9CDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46331FC2-8024-4E3C-9D07-9974EFF9CDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46331FC2-8024-4E3C-9D07-9974EFF9CDE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FEA5EB-5FBF-423E-B7CA-D6FCDFE47D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FEA5EB-5FBF-423E-B7CA-D6FCDFE47D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FEA5EB-5FBF-423E-B7CA-D6FCDFE47D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FEA5EB-5FBF-423E-B7CA-D6FCDFE47D97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
