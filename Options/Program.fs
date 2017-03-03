@@ -1,0 +1,15 @@
+﻿// Some/None is similar to using a Maybe in C#, or a nullable type (HasValue)
+
+let o1 = Some(5)
+let o2 = None
+
+if o1 = o2 then
+    printfn "Values are equal"
+
+let checkOption o =
+    match o with
+    | Some(x) -> printfn "Option contains value %A" x
+    | None -> printfn "Option doesn't have a value"
+
+checkOption o1
+checkOption o2
