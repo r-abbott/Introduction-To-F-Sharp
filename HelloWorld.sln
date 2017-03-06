@@ -33,6 +33,10 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RecordTypes", "RecordTypes\
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DataManipulationAndAnalysis", "DataManipulationAndAnalysis\DataManipulationAndAnalysis.fsproj", "{3FC6D35E-E9DB-4D9C-8C3A-A82BADA68DAC}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "InterfacesAndObjectExpressions", "InterfacesAndObjectExpressions\InterfacesAndObjectExpressions.fsproj", "{243645D9-C524-4838-BE18-84CFCAD44B7B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ExceptionsAndDisposable", "ExceptionsAndDisposable\ExceptionsAndDisposable.fsproj", "{EDE66226-0F29-485B-9ECE-4B3FA836DAAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{3FC6D35E-E9DB-4D9C-8C3A-A82BADA68DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC6D35E-E9DB-4D9C-8C3A-A82BADA68DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC6D35E-E9DB-4D9C-8C3A-A82BADA68DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243645D9-C524-4838-BE18-84CFCAD44B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243645D9-C524-4838-BE18-84CFCAD44B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243645D9-C524-4838-BE18-84CFCAD44B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243645D9-C524-4838-BE18-84CFCAD44B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE66226-0F29-485B-9ECE-4B3FA836DAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE66226-0F29-485B-9ECE-4B3FA836DAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE66226-0F29-485B-9ECE-4B3FA836DAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE66226-0F29-485B-9ECE-4B3FA836DAAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
